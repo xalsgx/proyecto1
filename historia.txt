@@ -2,4 +2,8 @@ Esta es la historia de Raúl Alejandro.
 
 Yo seré el más perron aquí.
 
+<<<<<<< HEAD
 Soy repiola, el hokage rompe hostias.
+=======
+El Sasuke es mi perra.
+>>>>>>> footer
